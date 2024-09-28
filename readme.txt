@@ -6,7 +6,7 @@ Use any small steel item on the flint to prepare it for use (eg. knives, hatchet
 
 Once you've "paired" a striking item to the flint, you can use the flint like you would lighters/matches etc.
 
-Just be aware that using the flint will damage your tool over time, and the flint has a limited quantity which depletes over time and when it hits zero it cannot be used anymore (and there is no way to replenish the flint - so at the point it's time to throw it away and find a new one!)
+Just be aware that using the flint will damage your striking tool over time, and the flint has a limited quantity which depletes over time and when it hits zero it cannot be used anymore (and there is no way to replenish the flint - so at that point it's time to throw it away and find a new one!)
 
 Installation Instructions:
 
